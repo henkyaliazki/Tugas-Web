@@ -1,0 +1,31 @@
+.navbar {
+  font-family: "Poppins", sans-serif;
+}
+.dropdown:hover .dropdown-menu {
+  display: block;
+  margin-top: 0;
+  border-style: none;
+}
+
+.decoration-text {
+  padding-bottom: 5px;
+  text-decoration-line: underline;
+  text-decoration-color: #42f542;
+}
+
+.color-bg {
+  background: linear-gradient(to right, #006579, #07359a, #72405b);
+}
+.line {
+  border-bottom: 5px solid white;
+}
+.color-card {
+  --bs-card-bg: none !important;
+  color: aliceblue;
+}
+@media screen and (min-width: 640px) {
+  .mega-menu {
+    width: 640px;
+    transform: translate3d(-30px, 4px, 0) !important;
+  }
+}

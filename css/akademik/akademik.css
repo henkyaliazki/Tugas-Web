@@ -1,0 +1,79 @@
+.navbar {
+  font-family: "Poppins", sans-serif;
+}
+.dropdown:hover .dropdown-menu {
+  display: block;
+  margin-top: 0;
+  border-style: none;
+}
+.picture-jumbo {
+  background-image: url("/image/akademik/bannnerPRODI-informatika.jpg");
+  height: 25em !important;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.informatika {
+  padding-top: 2px;
+}
+.sipil {
+  padding-top: 0.5px;
+}
+.img-w10 {
+  width: 130px;
+  padding: 10px;
+}
+.style-list {
+  list-style-type: disc;
+}
+.deco-font {
+  text-decoration: none;
+}
+.font-desc {
+  font-size: 15px;
+}
+.bg-color {
+  background: #003084;
+}
+.font-smstr {
+  font-size: 20px;
+  font-weight: 500px;
+  color: #fff;
+  padding: 5px 12px;
+}
+.style-bg {
+  height: 500px;
+  padding-bottom: 10px;
+  padding-top: 15px;
+  background: #ecfee4;
+}
+
+.set-height {
+  margin-top: 0px;
+  height: 700px;
+}
+.color-footer {
+  background: linear-gradient(to right, #cce5e1, #ccd9ea, #dfd8e0);
+}
+.campus-location {
+  display: block;
+  width: 27%;
+  height: 350px;
+}
+
+.img-campus {
+  width: 100%;
+  height: 12em;
+  padding-bottom: 10px;
+}
+
+.set-all {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  height: 70px;
+  background: linear-gradient(to right, #006579, #07359a, #4a3160);
+}
